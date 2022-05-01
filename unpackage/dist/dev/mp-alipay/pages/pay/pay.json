@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "支付",
+  "usingComponents": {
+    "use-navbar": "/components/use-navbar/use-navbar"
+  }
+}

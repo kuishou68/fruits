@@ -1,0 +1,9 @@
+{
+  "defaultTitle": "购物车",
+  "pullRefresh": true,
+  "usingComponents": {
+    "use-empty": "/components/use-empty/use-empty",
+    "use-number-box": "/components/use-number-box/use-number-box",
+    "use-hot-goods": "/components/use-hot-goods/use-hot-goods"
+  }
+}

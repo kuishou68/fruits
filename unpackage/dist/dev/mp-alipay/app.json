@@ -1,0 +1,74 @@
+{
+  "pages": [
+    "pages/tabbar/home",
+    "pages/index/index",
+    "pages/tabbar/category",
+    "pages/tabbar/cart",
+    "pages/tabbar/user",
+    "pages/home/search/search",
+    "pages/login/login",
+    "pages/login/register",
+    "pages/login/forgot-password",
+    "pages/goods/goods",
+    "pages/goods/goods-list",
+    "pages/goods/goods-evaluate",
+    "pages/user/address/address-edit",
+    "pages/user/address/address",
+    "pages/user/order/order",
+    "pages/user/order/order-detail",
+    "pages/user/order/order-refund",
+    "pages/user/order/order-express",
+    "pages/user/order/order-evaluate",
+    "pages/user/collect/collect",
+    "pages/user/browsing/browsing",
+    "pages/user/setting/setting",
+    "pages/user/setting/personal",
+    "pages/user/coupon/coupon",
+    "pages/user/integral/sign",
+    "pages/user/integral/detail",
+    "pages/order/create",
+    "pages/pay/pay",
+    "pages/pay/success",
+    "pages/content/web",
+    "pages/content/rich-text",
+    "pages/marketing/coupon"
+  ],
+  "subPackages": [],
+  "window": {
+    "defaultTitle": "魁首",
+    "titleBarColor": "#fff",
+    "backgroundColor": "#fff"
+  },
+  "tabBar": {
+    "textColor": "#C0C4CC",
+    "selectedColor": "#ff6a6c",
+    "backgroundColor": "#ffffff",
+    "items": [
+      {
+        "pagePath": "pages/tabbar/home",
+        "name": "首页",
+        "icon": "static/images/tabbar/home.png",
+        "activeIcon": "static/images/tabbar/home-active.png"
+      },
+      {
+        "pagePath": "pages/tabbar/category",
+        "name": "分类",
+        "icon": "static/images/tabbar/category.png",
+        "activeIcon": "static/images/tabbar/category-active.png"
+      },
+      {
+        "pagePath": "pages/tabbar/cart",
+        "name": "购物车",
+        "icon": "static/images/tabbar/cart.png",
+        "activeIcon": "static/images/tabbar/cart-active.png"
+      },
+      {
+        "pagePath": "pages/tabbar/user",
+        "name": "我的",
+        "icon": "static/images/tabbar/user.png",
+        "activeIcon": "static/images/tabbar/user-active.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

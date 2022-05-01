@@ -1,0 +1,1 @@
+<view class="padding"><view class="padding item border-radius dflex-b margin-bottom" a:for="{{datas}}" a:for-item="item" a:for-index="idx" a:key="idx"><view class="fs fwb">{{item.time}}</view><view class="tar"><view class="fwb"><text class="fs-lg">{{item.symbol+item.integral}}</text></view><view class="fs-xs">{{item.type}}</view></view></view></view>

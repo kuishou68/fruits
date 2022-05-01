@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/images/logo.png"></image><view class="text-area"><text class="title">{{title}}</text></view><swiper class="w-full" style="height:500px;"><swiper-item class="wh-full"><view class="wh-full bg-warn"></view></swiper-item><swiper-item class="wh-full"><view class="wh-full bg-base"></view></swiper-item></swiper></view>

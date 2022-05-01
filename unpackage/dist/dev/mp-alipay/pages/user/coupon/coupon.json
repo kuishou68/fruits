@@ -1,0 +1,7 @@
+{
+  "defaultTitle": "我的优惠券",
+  "usingComponents": {
+    "use-empty": "/components/use-empty/use-empty",
+    "use-loadmore": "/components/use-loadmore/use-loadmore"
+  }
+}

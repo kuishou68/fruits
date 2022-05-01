@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "商品评价",
+  "usingComponents": {
+    "use-rate": "/components/use-rate/use-rate"
+  }
+}

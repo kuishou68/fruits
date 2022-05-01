@@ -1,0 +1,8 @@
+{
+  "defaultTitle": "领券中心",
+  "pullRefresh": true,
+  "usingComponents": {
+    "use-empty": "/components/use-empty/use-empty",
+    "use-loadmore": "/components/use-loadmore/use-loadmore"
+  }
+}
